@@ -77,4 +77,3 @@ class GrantTypeBase(object):
 
         raise NotImplementedError(
             'Subclasses must set a valid defaultresponse mode')
->>>>>>> Response mode support.
